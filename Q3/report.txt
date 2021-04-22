@@ -1,0 +1,32 @@
+----------------- Q 3 b -------------------
+
+Mean Squared Error =  14.898374467598645
+
+----------------- Q 3 c -------------------
+
+k =  1
+Mean Squared Error =  13.819606456519109
+k =  2
+Mean Squared Error =  13.636266256819166
+k =  3
+Mean Squared Error =  0.22155907938819272
+k =  4
+Mean Squared Error =  0.19669492545897022
+k =  5
+Mean Squared Error =  0.0007461556221027676
+k =  6
+Mean Squared Error =  0.0006701207085641931
+k =  7
+Mean Squared Error =  6.286393008119336e-07
+k =  8
+Mean Squared Error =  5.726874175515086e-07
+k =  9
+Mean Squared Error =  2.597737764449787e-10
+k =  10
+Mean Squared Error =  2.2614191795620724e-10
+
+----------------- Q 3 d -------------------
+
+Mean Squared Error for Training =  2.9779655984849057e-22
+Mean Squared Error for Test =  92.0351748212746
+
