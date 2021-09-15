@@ -8,4 +8,4 @@ Given Serialized kernel functions, checked for its validity.
 A valid kernel is with Symmetric and Positive Semi Definite Gram Matrix.
 
 <!-- <embed src="Results.pdf" type="application/pdf"> -->
-![Results](Results.pdf)
+![Valid Kernels](img/Results-01.png)
